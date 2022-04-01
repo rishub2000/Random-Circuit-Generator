@@ -1,0 +1,9 @@
+simple led circuit
+blink led using 555 timer
+not gate inverter
+cmos inverter
+two way switch
+doorbell circuit
+Transistor as switch
+Transistor as Amplifier
+Transitor as Invertor
